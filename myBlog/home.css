@@ -1,0 +1,13 @@
+body{
+    font-family: Arial;
+}
+header{
+    background-color: rgb(36, 199, 144);
+    color: rgb(176, 65, 65);
+}
+a{
+    color: white;
+}
+img{
+    max-width: 100%;
+}

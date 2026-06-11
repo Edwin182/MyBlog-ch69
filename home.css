@@ -1,0 +1,36 @@
+/*tag selector*/
+body{
+    font-family: arial;
+}
+header{
+    background-color: black;
+    color:white;
+}
+a{
+    color:white;
+}
+img{
+    max-width: 100%;
+}
+/* class selector . */
+.large-text{
+    font-size: 25px;
+}
+
+/*header*/
+.nav-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-blog{
+    display: flex;
+    gap:10px;
+    
+}
